@@ -1,0 +1,5 @@
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Average Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Monda', sans-serif;
+font-family: 'Emilys Candy', cursive;
